@@ -13,6 +13,14 @@ MAJOR.MINOR.PATCH
 * **PATCH:** correcciones menores que no alteran el funcionamiento general.
 
 ---
+## Versión 1.2.0
+
+### Validación de datos
+
+* Se actualizó el workflow de n8n para mejorar la validación de los datos recibidos.
+* Se incorporaron controles para detectar códigos de barras inválidos.
+* Se mejoró la gestión de productos no encontrados.
+* Se ajustaron las respuestas del workflow para informar claramente los errores y los datos insuficientes.
 
 ## Versión 1.1.0
 
